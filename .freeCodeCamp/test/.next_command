@@ -55,3 +55,21 @@ psql -u postgres < universe.sql
 psql -U postgres < universe.sql
 clear
 git add .
+git commit -m "finished clestial bodies database"
+git remote add origin https://github.com/khaing17/feecodecamp-cbd.git
+git branch -a
+__vsc_prompt_cmd_original
+git remote -v
+git brach -a
+git branch -a
+git push origin dev
+git push origin main
+clear
+git remote add origin https://github.com/khaing17/feecodecamp-cbd.git
+clear
+git init
+rm -rf git
+clear
+git init
+git remote -v
+git add .
